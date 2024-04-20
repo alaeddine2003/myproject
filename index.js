@@ -1,1 +1,1 @@
-alert("Hello,word!");
+alert("how are u MR.ala");
